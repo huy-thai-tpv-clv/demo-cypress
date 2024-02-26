@@ -1,0 +1,14 @@
+{
+  "validUser": {
+    "email": "Huytg@gmail.com",
+    "password": "P4ssW0rd!"
+  },
+  "invalidUserEmail": {
+    "email": "admin3@yahoo.com",
+    "password": "12345"
+  },
+  "invalidUserPassword": {
+    "email": "admin@yahoo.com",
+    "password": "12345"
+  }
+}

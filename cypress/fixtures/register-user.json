@@ -1,0 +1,37 @@
+{
+  "userEmailIncorrectFormat": {
+    "email": "admin",
+    "password": "12345678a@A"
+  },
+  "userEmailWasTaken": {
+    "email": "admin@yahoo.com",
+    "password": "12345678a@A"
+  },
+  "userNoConfirmPassword": {
+    "email": "admin3@yahoo.com",
+    "password": "12345678a@A"
+  },
+  "passwordLessThan8Character": {
+    "email": "admin3@yahoo.com",
+    "password": "2345@qA"
+  },
+  "passwordNoHaveLowercase": {
+    "email": "admin3@yahoo.com",
+    "password": "123456789@A"
+  },
+  "passwordNoHaveUpperCase": {
+    "email": "admin3@yahoo.com",
+    "password": "12345678a@1"
+  },
+  "passwordNoHaveNumber": {
+    "email": "admin3@yahoo.com",
+    "password": "a@Aaaaaaaaaaaa"
+  },
+  "passwordNoHaveSpecialCharacter": {
+    "email": "admin3@yahoo.com",
+    "password": "12345678aAA"
+  },
+  "availableUser": {
+    "password": "12345678a@A"
+  }
+}
